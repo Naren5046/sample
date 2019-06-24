@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "welcome"
+echo "welcome from server b"
